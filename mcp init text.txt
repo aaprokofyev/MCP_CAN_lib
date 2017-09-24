@@ -1,0 +1,4 @@
+Entering Configuration Mode Successful!
+Setting Baudrate Successful!
+MCP2515 Initialized Successfully!
+MCP2515 Library Receive Example...
